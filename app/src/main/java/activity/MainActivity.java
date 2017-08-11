@@ -24,7 +24,7 @@ public class MainActivity extends Activity {
 
     private static final String TAG = "MainActivity";
     private ShowImageWebView mWebView;
-    private String url = "http://a.mp.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt&from=media#!wm_aid=f2cacc914b09483c9eebfe018d8e0dc5!!wm_id=482efebe15ed4922a1f24dc42ab654e6";
+    private String url = "http://a.mp.uc.cn/article.html?uc_param_str=frdnsnpfvecpntnwprdssskt&from=media#!wm_aid=1b221845d3894dce9ebb434ddce862d1!!wm_id=482efebe15ed4922a1f24dc42ab654e6";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
